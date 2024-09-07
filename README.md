@@ -1,5 +1,10 @@
 ## 무인 POS 시스템 개발 프로젝트
 
+<a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuun-S%2FSimplePosSystem_Py&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hit Counter for SimplePosSystem_Py"/>
+</a>
+
+
 **1. 프로젝트 개요**
 
 포스트 코로나 시대에 증가하는 무인 서비스 수요를 충족하기 위해 무인 POS(Point of Sale) 시스템을 개발하는 프로젝트입니다. 예외처리를 고려한 효율적인 코드 구조를 통해 안정적이고 편리한 무인 결제 환경을 제공하는 것을 목표로 합니다.
